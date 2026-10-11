@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Vighnesh!
+# Hi, I'm Vighnesh!
 
 🎓 I'm an aspiring **AI engineer**, passionate about solving real-world problems through **data science**, **machine learning**, and **intelligent systems**. I love working on projects that blend **AI**, **Data Science**, and **Automation** to build innovative solutions.
 
 ---
 
-## 🧠 Areas of Interest
+## Areas of Interest
 
-- 🤖 Artificial Intelligence in Education & Healthcare
-- 📈 Forecasting, Optimization, and Time-Series Analysis
-- 🧮 Operations Research: Linear Programming, MILP, Genetic Algorithms
-- 🧠 NLP and Document Similarity Matching
-- 🧪 Statistical Modeling (Regression, Classification)
-- 📊 Business Analytics, Dashboards & Decision Systems
+-  Artificial Intelligence in Education & Healthcare
+-  Forecasting, Optimization, and Time-Series Analysis
+-  Operations Research: Linear Programming, MILP, Genetic Algorithms
+-  NLP and Document Similarity Matching
+-  Statistical Modeling (Regression, Classification)
+-  Business Analytics, Dashboards & Decision Systems
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 </div>
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -42,10 +42,10 @@
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
-- 🔗 [GitHub](https://github.com/Vighnesh-45)
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/vighneshdhotre45/)) 
+-  [GitHub](https://github.com/Vighnesh-45)
+-  [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/vighneshdhotre45/)) 
 
 ---
 
